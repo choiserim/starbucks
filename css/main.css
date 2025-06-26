@@ -4,6 +4,7 @@
 2. 인라인 요소 (display: inline;)의 가로 너비
 인라인 요소는 오직 자신의 내용물(콘텐츠)의 너비만큼만 공간을 차지합니다. 내용물이 길어지면 가로 너비도 함께 늘어나고, 짧아지면 줄어듭니다. */
 /* common styles */
+
 body {
   color: #333;
   /* 폰트사이즈를 지정하지 않으면 기본값이 16px */
@@ -366,7 +367,7 @@ header .badges .badge {
   margin-bottom: 12px;
   box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.15);
   cursor: pointer;
-}
+} 
 
 /* visual 요소들 */
 .visual {
